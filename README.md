@@ -1,2 +1,1 @@
 "# tutorial-django" 
-"# tutorial-django" 
